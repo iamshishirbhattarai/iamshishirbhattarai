@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishir Bhattarai</h1>
-<h3 align="center">A Machine Learning enthusiast from Nepal.</h3>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and GenAI.**
+<h3 align="center">An AI Engineer From Nepal.</h3>
 
 - 📫 How to reach me **shishirbhattarai932@gmail.com**
 
