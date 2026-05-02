@@ -165,18 +165,6 @@ Currently, I am strengthening my understanding of system design, cloud infrastru
 
 ---
 
-### GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshishirbhattarai&show_icons=true&theme=tokyonight&hide_border=true" alt="Shishir Bhattarai GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshishirbhattarai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   Building practical AI systems with a focus on reliability, clarity, and real-world impact.
 </p>
